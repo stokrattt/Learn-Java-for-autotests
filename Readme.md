@@ -1,4 +1,4 @@
-Simple tests with PageObject pattern\n
+Simple tests with PageObject pattern
 
 **Stack: Java + Maven + TestNG + Allure (with screenshot)**
 
